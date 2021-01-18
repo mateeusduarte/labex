@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.28631e50.chunk.js",
+    "main.js.map": "/static/js/main.28631e50.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dbc74a60.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dbc74a60.js.map",
+    "static/js/2.41a4b285.chunk.js": "/static/js/2.41a4b285.chunk.js",
+    "static/js/2.41a4b285.chunk.js.map": "/static/js/2.41a4b285.chunk.js.map",
+    "static/js/3.8b3911f0.chunk.js": "/static/js/3.8b3911f0.chunk.js",
+    "static/js/3.8b3911f0.chunk.js.map": "/static/js/3.8b3911f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.41a4b285.chunk.js.LICENSE.txt": "/static/js/2.41a4b285.chunk.js.LICENSE.txt",
+    "static/media/astronaut.e6bc4d65.png": "/static/media/astronaut.e6bc4d65.png",
+    "static/media/back.5d1584e4.svg": "/static/media/back.5d1584e4.svg",
+    "static/media/cadastro-page-background.af348d65.png": "/static/media/cadastro-page-background.af348d65.png",
+    "static/media/candidatos-viagem-page-background.2726977a.png": "/static/media/candidatos-viagem-page-background.2726977a.png",
+    "static/media/home-background.c330c398.jpg": "/static/media/home-background.c330c398.jpg",
+    "static/media/loginpage-background.c5168c0d.png": "/static/media/loginpage-background.c5168c0d.png",
+    "static/media/logo-labex.833f8572.png": "/static/media/logo-labex.833f8572.png",
+    "static/media/pagina-inscricao-background.5babca9b.png": "/static/media/pagina-inscricao-background.5babca9b.png",
+    "static/media/painel-de-controle-background.74dd5697.png": "/static/media/painel-de-controle-background.74dd5697.png",
+    "static/media/scrolldown-icon.2bbb1dbf.svg": "/static/media/scrolldown-icon.2bbb1dbf.svg",
+    "static/media/trash-icon.59326cfd.svg": "/static/media/trash-icon.59326cfd.svg",
+    "static/media/viagenspage-background.90ebf39d.png": "/static/media/viagenspage-background.90ebf39d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbc74a60.js",
+    "static/js/2.41a4b285.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.28631e50.chunk.js"
+  ]
+}
